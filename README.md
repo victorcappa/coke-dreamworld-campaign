@@ -58,7 +58,8 @@ All intellectual property is owned by The Coca-Cola Company
 Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
 
 
-Share the project - [CokeDreamworld]([https://github.com/victorcappa/coke-dreamworld-campaign])
+Share the project - 
+[CokeDreamworld]: https://github.com/victorcappa/coke-dreamworld-campaign
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
