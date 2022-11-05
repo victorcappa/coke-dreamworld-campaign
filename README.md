@@ -50,18 +50,10 @@ I developed most of the 3D interactions and some UI structures and 3D positionin
 
 All intellectual property is owned by The Coca-Cola Company
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
 Reach out - <a href = "mailto: cappacurta@gmail.com.com">Victor Cappa</a>
-
-
-Share the project - 
-[CokeDreamworld]: https://github.com/victorcappa/coke-dreamworld-campaign
+<a href="https://www.linkedin.com/in/victor-cappa-50839788/">Linkedin</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/victor-cappa-50839788/
