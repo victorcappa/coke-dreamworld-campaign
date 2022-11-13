@@ -17,13 +17,15 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Tasty Bytes</h3>
+<h3 align="center">Coke Dreamworld</h3>
 
   <p align="center">
 AR creation tool for Coke Dreamworld campaign | Made with 8th Wall and Niantic VPS, a-frame, html, css and javascript.
   </p>
    <img src="https://user-images.githubusercontent.com/40408965/200143996-2973b16c-58c4-447e-88be-a825d4ae40cf.gif" alt="animated" />
 </div>
+
+<a href="https://us.coca-cola.com/coke-creations-dreamworld-ar-mural" >Visit the project</a>
 
 
 
