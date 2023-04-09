@@ -5,7 +5,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h2>Client</h2>
-<p><b>The Coca-Cola Company</b></p>
+<p><b>Contract: Subvrsive</b></p>
+<p><b>for The Coca-Cola Company</b></p>
+
 
 
 <!-- PROJECT LOGO -->
