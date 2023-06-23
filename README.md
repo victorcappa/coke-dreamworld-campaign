@@ -42,7 +42,7 @@ AR creation tool for Coke Dreamworld campaign | Made with 8th Wall and Niantic V
  
   <h3>Challenges</h3
    <p>
-I helped to develop most of the 3D interactions and some UI structures. 3D positioning on VPS was by far the most challenging obstacle for us. This is an amazing technology, but still tough to test and adjust — and considering that this was the core of the project, I dedicated a lot of effort to understand it.
+I implemented most of the 3D interactions and some UI structures. 3D positioning on VPS was by far the most challenging obstacle for us. This is an amazing technology, but still tough to test and adjust — and considering that this was the core of the project, I dedicated a lot of effort to understand it.
    </p>
 
 
